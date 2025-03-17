@@ -4,7 +4,7 @@
   A Gatsby-powered static site integrated with MongoDB for data storage. This project features a Pokémon list and a blog with full CRUD (Create, Read, Update, Delete) functionality. Optimized for performance and scalability using Gatsby's static file generation capabilities.
 </p>
 
----
+------
 
 ## 🛠 Installation
 
